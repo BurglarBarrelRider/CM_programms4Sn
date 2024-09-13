@@ -11,7 +11,7 @@ int main() {
         n++;
     }
 
-    cout << "Number of iterations: " << n << endl;
+    cout << "Num i " << n << endl;
 
     return 0;
 }
